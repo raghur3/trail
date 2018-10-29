@@ -1,0 +1,5 @@
+D:\Project\MVC\Reval\Properties\bin\Debug\Properties.dll
+D:\Project\MVC\Reval\Properties\bin\Debug\Properties.pdb
+D:\Project\MVC\Reval\Properties\obj\Debug\Properties.csprojResolveAssemblyReference.cache
+D:\Project\MVC\Reval\Properties\obj\Debug\Properties.dll
+D:\Project\MVC\Reval\Properties\obj\Debug\Properties.pdb

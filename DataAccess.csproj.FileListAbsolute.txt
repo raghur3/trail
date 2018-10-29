@@ -1,0 +1,7 @@
+D:\Project\MVC\Reval\DataAccess\bin\Debug\DataAccess.dll
+D:\Project\MVC\Reval\DataAccess\bin\Debug\DataAccess.pdb
+D:\Project\MVC\Reval\DataAccess\bin\Debug\Properties.dll
+D:\Project\MVC\Reval\DataAccess\bin\Debug\Properties.pdb
+D:\Project\MVC\Reval\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Project\MVC\Reval\DataAccess\obj\Debug\DataAccess.dll
+D:\Project\MVC\Reval\DataAccess\obj\Debug\DataAccess.pdb
